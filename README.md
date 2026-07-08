@@ -13,6 +13,12 @@ IoT-Botnet 是一套高度仿真、闭环隔离的僵尸网络（Botnet）教学
 4. 僵尸网络C2通信、身份认证、断线自愈、DGA动态域名回连机制；
 5. Go高并发服务、Goroutine异步调度、RBAC权限架构设计。
 
+![image](https://github.com/RedArmory/IoT-Botnet/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-08%20145140.png)
+
+![image](https://github.com/RedArmory/IoT-Botnet/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-08%20145339.png)
+
+![image](https://github.com/RedArmory/IoT-Botnet/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-08%20145650.png)
+
 ### 1.2 法律合规与免责声明
 ⚠️ **严正警告**：
 本项目代码包含分布式流量轰炸、远程命令执行、进程伪装、持久驻留、DGA域名生成等攻击类技术实现。**禁止在公网、企业内网、云服务器、未取得书面授权的IoT设备上编译、运行、分发、二次改造**。
