@@ -1,0 +1,21 @@
+# ============================================
+# 用户配置文件
+# 格式: username:password:role
+# role: admin - 管理员, user - 普通用户, guest - 游客
+# ============================================
+
+# --- 管理员账号 ---
+admin:admin123:admin
+
+# --- 普通用户账号 ---
+user:user123:user
+
+# --- 测试用户 ---
+test01:test123456:user
+test02:test123456:user
+alice:alice@2024:user
+bob:bob@2024:user
+
+# --- 游客账号（只读，无攻击权限） ---
+guest:guest123:guest
+viewer:viewer123:guest
