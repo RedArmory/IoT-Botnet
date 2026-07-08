@@ -4,6 +4,12 @@
 
 适用对象: 网络安全研究员、高校信息安全专业、后端架构师、运维工程师
 
+红色兵团是一支来自中国大陆的技术型公益团队，成员由经验丰富的网络安全专家、程序开发者及志愿者组成。我们以“技术为民，网络清明”为核心理念，致力于利用网络技术为社会做出正面贡献。
+
+我们的公益网站 https://redarmyofchina.org/
+
+关注频道telegram频道 https://t.me/RedArmyofChina 加入telegram技术社区 https://t.me/RedArmyofChinaGroup
+
 ## 1. 项目概述与声明
 ### 1.1 项目简介
 IoT-Botnet 是一套高度仿真、闭环隔离的僵尸网络（Botnet）教学模拟系统，由 **Go语言控制端(Controller)** 与 **C语言被控端Agent(Bot)** 双组件构成。整套系统仅允许在断网隔离虚拟机沙盒内运行，核心研究方向：
